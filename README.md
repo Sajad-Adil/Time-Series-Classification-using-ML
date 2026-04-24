@@ -1,4 +1,4 @@
-# 🧠 EEG Signal Classification Using ML and DL
+# EEG Signal Classification Using ML and DL
 
 This project aims to classify EEG time series data using both machine learning and deep learning techniques to evaluate their effectiveness in identifying different brain activity patterns.
 
